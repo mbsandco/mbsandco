@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">An enthusiastic developer with a passion for technology and entrepreneurship.</h3>
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" align="right" />
+<img width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mysterdev&label=Profile%20views&color=0e75b6&style=flat" alt="mysterdev" /> </p>
 
